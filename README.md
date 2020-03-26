@@ -7,4 +7,5 @@ The Official REPL for Baking.
 3. Process
 4. Result
 
-We are currently focused on the Ingredients Stage.
+# Focus
+We are currently focused on the Ingredients Stage. 
