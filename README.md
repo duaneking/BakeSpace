@@ -4,8 +4,6 @@ The Official REPL for Baking.
 # Project Standards
 * When in doubt look for the newest most functional and useful spec/rfc.
 * Use the best tool for the job, not just the hammer you know very well.  Be open to learning how to leverage other peoples tools, but call out the problems associated with them freely and respectfully.
-* We are all human and should be adults, so act like it. In the case you are not a human adult, legally I cant have you here.
-* Complaints have been made that this unfairly discriminates against Cats and Dogs; If you can prove your cat or dog wants to contribute and you can prove on unedited video they have the programming skills, I will make a special exception after they pass a white-board interview (also on video) that I proctor.
 
 # Project Code Of Conduct
 * This project is a meritocracy with a BDFL that values functional software and engineering/cooking excellence over personal opinion or political bias.
