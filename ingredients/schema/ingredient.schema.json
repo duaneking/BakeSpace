@@ -10,9 +10,17 @@
 		"format": "uri",
 		"pattern": "^urn:uuid:"
     },
+    "path": {
+		"type": "string",
+		"description": "The namespace/parent path of the ingredent."
+    }
     "name": {
-      "type": "string",
-      "description": "The name of the ingredent."
+		"type": "string",
+		"description": "The name of the ingredent."
+    }
+    "modifiede": {
+		"type": "date-time",
+		"description": "The name of the ingredent."
     }
   }
   "required": [ "iuid", "name" ],
