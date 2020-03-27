@@ -7,22 +7,18 @@
   "properties": {
     "iuid": {
 		"type": "string",
-		"format": "uri",
-		"pattern": "^urn:uuid:"
+		"format": "uuid",
+		"description": "The UUIDv4 primary key of the ingredent."
     },
-    "path": {
+    "key": {
 		"type": "string",
-		"description": "The namespace/parent path of the ingredent."
-    }
+		"description": "The namespace/parent path key of the ingredent."
+    },
     "name": {
 		"type": "string",
 		"description": "The name of the ingredent."
     }
-    "modifiede": {
-		"type": "date-time",
-		"description": "The name of the ingredent."
-    }
-  }
-  "required": [ "iuid", "name" ],
+  },
+  "required": [ "iuid", "key", "name" ],
   "additionalProperties": false
 }
